@@ -1,0 +1,89 @@
+body{
+    background-color: black;
+    color: white;
+}
+.nav
+{
+    float: right;
+}
+.header
+{
+    padding-top: 120px;
+}
+.header h1 
+{
+    padding-bottom: 10px;
+
+}
+.header p
+{
+    padding-bottom: 10px;
+
+}
+.header1 img
+{
+    padding-top: 70px;
+}
+.about
+{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.about1
+{
+    text-align: justify;
+}
+.about1 h1
+{
+    padding-bottom: 10px;
+}
+.about1 p
+{
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+}
+.image2
+{
+    text-align: center;
+    padding-top: 30px;
+}
+.image2 p 
+{
+    text-align: justify;
+    padding-left: 80px;
+
+}
+.image2 h4
+{
+    text-align: justify;
+    padding-left: 80px;
+    padding-top: 10px;
+}
+.project1
+{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.text
+{
+    background-color: black;
+}
+.contact
+{
+    background-color: black;
+}
+.contact1
+{
+    padding-top: 50px;
+}
+
+
+
+
+.footer1
+{
+    text-align: center;
+}
